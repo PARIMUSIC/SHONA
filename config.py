@@ -70,7 +70,7 @@ STRING5 = getenv("STRING_SESSION5")
 
 # ── Media assets ───────────────────────────────────────────────────────────────
 START_VIDS = [
-    "https://files.catbox.moe/i9l74f.mp4",
+    "https://files.catbox.moe/bebg0w.mp4",
     "https://files.catbox.moe/vykrv0.mp4",
     "https://files.catbox.moe/4597ve.mp4",
 ]
